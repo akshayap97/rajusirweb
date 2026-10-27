@@ -37674,3 +37674,8 @@ display: inline;
 .sec-1-about {
 	background: #f9efe4;
 }
+
+.faqcontent span {
+	color: #0f172a;
+	font-weight: 600;
+}
